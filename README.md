@@ -41,9 +41,11 @@ Here are the kinds of projects I'm interested in building and improving:
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshtech_)
+[![Instagram](https://img.shields.io/badge/Instagram-lakshtech__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshtech_)
 
-[![GitHub](https://img.shields.io/badge/GitHub-lakshtech04-181717?style=for-the-badge&logo=github)](https://github.com/lakshtech04)
+[![Canva](https://img.shields.io/badge/Canva-Design%20Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-lakshtech04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshtech04)
 
 ---
 
